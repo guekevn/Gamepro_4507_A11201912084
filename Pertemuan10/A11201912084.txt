@@ -1,0 +1,9 @@
+A11.2019.12084
+
+Cube -> Component = Transform, cube(mesh filter), mesh renderer, material, lighting, probes, additional settings, box collider
+Sphere -> Component = Transform, sphere(mesh filter), mesh renderer, material, lighting, probes, additional settings, sphere collider
+Capsule -> Component = Transform, capsule(mesh filter), mesh renderer, material, lighting, probes, additional settings, capsule collider
+Quad -> Component = Transform, quad(mesh filter), mesh renderer, material, lighting, probes, additional settings, mesh collider
+Capsule -> Component = Transform, plane(mesh filter), mesh renderer, material, lighting, probes, additional settings, mesh collider
+
+
